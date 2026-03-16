@@ -1,1 +1,1 @@
-"Ola Maninho"
+let num = 5
